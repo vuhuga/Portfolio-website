@@ -1,0 +1,19 @@
+This is a placeholder file for your resume.
+
+Please replace this with your actual resume PDF file named:
+"Brian_Vuhuga_Resume.pdf"
+
+Your resume should include:
+- Contact Information
+- Professional Summary
+- Work Experience
+- Education
+- Skills
+- Projects
+- Certifications (if any)
+
+Make sure your resume is:
+- Professional and well-formatted
+- Up-to-date with your latest experience
+- Saved as a PDF file
+- Under 5MB in size
